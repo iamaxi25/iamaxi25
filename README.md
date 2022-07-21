@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning HTML5/CSS3/JAVASCRIPT.
 - 💞️ I’m looking to collaborate on projects that get my attention.
-- 📫 How to reach me - On GitHub.
+- 📫 How to reach me - @callmeaxi - instagram
+                     -@iamaxi_  - twitter
 
 <!---
 iamaxi25/iamaxi25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
